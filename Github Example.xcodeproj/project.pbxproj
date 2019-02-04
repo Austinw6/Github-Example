@@ -12,6 +12,7 @@
 		84570A5A2204D5B40040B6D9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 84570A582204D5B40040B6D9 /* Main.storyboard */; };
 		84570A5C2204D5B40040B6D9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 84570A5B2204D5B40040B6D9 /* Assets.xcassets */; };
 		84570A5F2204D5B40040B6D9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 84570A5D2204D5B40040B6D9 /* LaunchScreen.storyboard */; };
+		849E92222208D3380050C251 /* c37449119246b9e4b4161b00c96490d2--programming-humor-nerd-geek.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 849E92212208D3380050C251 /* c37449119246b9e4b4161b00c96490d2--programming-humor-nerd-geek.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		84570A5B2204D5B40040B6D9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		84570A5E2204D5B40040B6D9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		84570A602204D5B40040B6D9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		849E92212208D3380050C251 /* c37449119246b9e4b4161b00c96490d2--programming-humor-nerd-geek.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "c37449119246b9e4b4161b00c96490d2--programming-humor-nerd-geek.jpg"; path = "../../../../Downloads/c37449119246b9e4b4161b00c96490d2--programming-humor-nerd-geek.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 				84570A562204D5B40040B6D9 /* ViewController.swift */,
 				84570A582204D5B40040B6D9 /* Main.storyboard */,
 				84570A5B2204D5B40040B6D9 /* Assets.xcassets */,
+				849E92212208D3380050C251 /* c37449119246b9e4b4161b00c96490d2--programming-humor-nerd-geek.jpg */,
 				84570A5D2204D5B40040B6D9 /* LaunchScreen.storyboard */,
 				84570A602204D5B40040B6D9 /* Info.plist */,
 			);
@@ -124,6 +127,7 @@
 			files = (
 				84570A5F2204D5B40040B6D9 /* LaunchScreen.storyboard in Resources */,
 				84570A5C2204D5B40040B6D9 /* Assets.xcassets in Resources */,
+				849E92222208D3380050C251 /* c37449119246b9e4b4161b00c96490d2--programming-humor-nerd-geek.jpg in Resources */,
 				84570A5A2204D5B40040B6D9 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

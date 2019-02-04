@@ -37,6 +37,10 @@
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="c37449119246b9e4b4161b00c96490d2--programming-humor-nerd-geek" translatesAutoresizingMaskIntoConstraints="NO" id="rDe-0F-Z0h">
+                                <rect key="frame" x="36" y="367" width="303" height="218"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
                         </subviews>
                         <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
@@ -47,4 +51,7 @@
             <point key="canvasLocation" x="133.59999999999999" y="133.5832083958021"/>
         </scene>
     </scenes>
+    <resources>
+        <image name="c37449119246b9e4b4161b00c96490d2--programming-humor-nerd-geek" width="236" height="236"/>
+    </resources>
 </document>
